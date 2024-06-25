@@ -13,7 +13,7 @@
 
 ![phantomsoldierking's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantomsoldierking&theme=date_night&show_icons=true)
 
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kpr4u27tzf5d7ttggpstootdce&count={1})
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31kpr4u27tzf5d7ttggpstootdce&count=1)
 
 <!--
 **phantomsoldierking/phantomsoldierking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
