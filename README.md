@@ -1,16 +1,18 @@
 ## Hi there 👋
+- 🔭 I’m currently working on nothing ig;;
+- 🌱 I’m currently learning web-dev, blockchain, DSA
+- 📫 How to reach me: patilyogeshgouda@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Never mind :)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomsoldierking&layout=compact)
+
+[![phantomsoldierking's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantomsoldierking)](https://github.com/phantomsoldierking/github-readme-stats)
 
 <!--
 **phantomsoldierking/phantomsoldierking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
