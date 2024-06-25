@@ -5,6 +5,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Never mind :)
 
+<div>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phantomsoldierking)](https://git.io/streak-stats)
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomsoldierking&langs_count=8)
 
 ![phantomsoldierking's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantomsoldierking&theme=date_night&show_icons=true)
