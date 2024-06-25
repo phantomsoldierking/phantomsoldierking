@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on nothing ig;;
-- 🌱 I’m currently learning web-dev, blockchain, DSA
+- 🔭 I’m currently studying Computer Science and Engineering in IIIT Dharwad
+- 🌱 I’m currently learning web-dev, blockchain, DSA, ML
 - 📫 How to reach me: patilyogeshgouda@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Never mind :)
